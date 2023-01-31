@@ -5,8 +5,7 @@ body {
 
   display: flex;
   flex-direction: column;
-  /* flex-wrap: wrap; */
-} /* good */
+}
 
 .header {
   height: 72px;
@@ -37,9 +36,6 @@ ul {
   list-style: none;
   padding: 0;
   margin: 0;
-  /* display: flex;
-  flex-direction: column;
-  gap: 16px; */
 }
 
 li {
@@ -76,4 +72,4 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-} /* good */
+}
